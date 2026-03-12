@@ -18,5 +18,5 @@ Este projeto é uma ferramenta de **Automação de Inteligência Artificial** qu
 
 1. **Abra seu terminal e clone o repositório:**
    ```bash
-git clone [https://github.com/Messihprx/python-ai-excel-analyzer.git](https://github.com/Messihprx/python-ai-excel-analyzer.git)
+   git clone [https://github.com/Messihprx/python-ai-excel-analyzer.git](https://github.com/Messihprx/python-ai-excel-analyzer.git)
 cd python-ai-excel-analyzer
