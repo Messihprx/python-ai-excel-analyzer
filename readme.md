@@ -14,6 +14,9 @@ Este projeto é uma ferramenta de **Automação de Inteligência Artificial** qu
 * **Openpyxl** (Manipulação de Excel)
 * **Python-dotenv** (Segurança de chaves)
 
+## Detalhe
+* A pasta dados.xlsx está apenas para fins demonstrativos, em casos reais essa pasta não subirá
+
 ## 📦 Como Instalar e Rodar
 
 1. **Abra seu terminal e clone o repositório:**
