@@ -22,4 +22,11 @@ Este projeto é uma ferramenta de **Automação de Inteligência Artificial** qu
 1. **Abra seu terminal e clone o repositório:**
    ```bash
    git clone [https://github.com/Messihprx/python-ai-excel-analyzer.git](https://github.com/Messihprx/python-ai-excel-analyzer.git)
-cd python-ai-excel-analyzer
+* Para rodar o programa, precisará de uma chave de API no site da NVIDIA.
+* Modelo: https://build.nvidia.com/meta/llama-3_1-8b-instruct
+* O usuário só precisa ir no canto superior direito do site onde está escrito "view code" em uma aba com bordas verdes
+* Após clicar em view code, O tester precisará criar (ou logar) uma conta no site.
+* Depois de logar, o tester já pode criar uma chave de API
+* Copie a chave de API e crie um arquivo chamado ".env" com o seguinte formato: NVIDIA_API_KEY=Sua_key_aqui
+* Obs: Não utilize aspas nem nada, somente a chave
+* Assim que o .env estiver sido criado e com a chave dentro, você pode rodar o arquivo main.py
