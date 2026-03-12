@@ -16,6 +16,7 @@ Este projeto é uma ferramenta de **Automação de Inteligência Artificial** qu
 
 ## 📦 Como Instalar e Rodar
 
-1. **Clone o repositório:**
+1. **Abra seu terminal e clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/SEU_USUARIO/NOME_DO_REPO.git)
+git clone [https://github.com/Messihprx/python-ai-excel-analyzer.git](https://github.com/Messihprx/python-ai-excel-analyzer.git)
+cd python-ai-excel-analyzer
